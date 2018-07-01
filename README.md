@@ -15,6 +15,7 @@ A partir du prototype de son site web, vous avez pour mission d'imaginer et de c
 
 ## Liens utiles
 https://webdesign.tutsplus.com/fr/articles/a-beginners-guide-to-wireframing--webdesign-7399
+
 https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 
 ## Accomplissement & rendu
