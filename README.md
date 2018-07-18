@@ -7,7 +7,7 @@ Pour installer ce logiciel, il suffit d'installer le paquet pencil.
 ```bash
 git clone https://github.com/simplon-roanne/pencil-training/
 ```
-Ouvrir le fichier _pencil-training.ppgz_ dans Pencil
+Ouvrir le fichier _pencil-training.epgz_ dans Pencil
 
 ## Exercice
 La société TechSolutions souhaite faire une étude de mise aux normes responsive de son site internet. 
